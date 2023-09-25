@@ -6,6 +6,7 @@ body{
     background-color: antiquewhite;
     width: 1256px;
     margin: auto;
+    height: auto;
 }
 .container{
     display: flex;
